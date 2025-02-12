@@ -1,0 +1,17 @@
+{
+  "name": "tdd_y_pruebas_unitarias_avanzado",
+  "version": "1.0.0",
+  "description": "TDD basic concepts",
+  "main": "index.js",
+  "repository": "git@github.com:jeastman19/tdd_y_pruebas_unitarias_avanzado.git",
+  "author": "Jorge Eastman <jeastman19@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --notify",
+    "test:watch": "jest --notify --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "node-notifier": "^10.0.1"
+  }
+}
